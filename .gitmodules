@@ -1,0 +1,6 @@
+[submodule "Atividades-Avante"]
+	path = Atividades-Avante
+	url = https://github.com/Gustavo-Almeida-M/Projetos-Avante.git
+[submodule "Projeto01"]
+	path = Projeto01
+	url = https://github.com/Gustavo-Almeida-M/Projetos-JS.git
